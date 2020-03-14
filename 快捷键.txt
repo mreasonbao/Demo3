@@ -1,0 +1,14 @@
+删除Command+Delet
+全截屏Command+Shift+3
+部分截屏Command+Shift+4
+在Qspance下返回上一层Command+↑
+在Qspance下返回Command+[
+在Qspance下前进Command+]
+程序最小化Command+m
+人名中间的点是 esc下面那个键·
+
+粘贴到此option+command+v
+
+
+
+
